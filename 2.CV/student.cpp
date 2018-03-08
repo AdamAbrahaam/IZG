@@ -1,5 +1,7 @@
 /******************************************************************************
  * Laborator 02 - Zaklady pocitacove grafiky - IZG
+ * Autor: Adam Abrahám
+ *
  * isolony@fit.vutbr.cz
  *
  * $Id: $
