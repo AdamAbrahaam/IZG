@@ -1,5 +1,7 @@
 /******************************************************************************
  * Laborator 01 - Zaklady pocitacove grafiky - IZG
+ * Autor: Adam Abrahám
+ * 
  * ihulik@fit.vutbr.cz
  *
  * $Id: $
